@@ -9,6 +9,10 @@ Develop a personal website containing information about work history, skills, pr
 ## Tasks
 - [ ] Research HTML frameworks for use
 - [ ] Generate content desired for site
+  * link to blog
+  * link to talks
+  * link to "how to learn salesforce"
+  * link to UGs & meetup
 - [x] Create Github repository for boazed site
 - [ ] Create gh-pages branch in repository
 - [ ] Implement HTML using selected framework
