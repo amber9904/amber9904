@@ -9,7 +9,7 @@ Develop a personal website containing information about work history, skills, pr
 ## Tasks
 - [ ] Research HTML frameworks for use
 - [ ] Generate content desired for site
-- [ ] Create Github repository for boazed site
+- [x] Create Github repository for boazed site
 - [ ] Create gh-pages branch in repository
 - [ ] Implement HTML using selected framework
 - [ ] Push HTML and required framework files to gh-pages branch
